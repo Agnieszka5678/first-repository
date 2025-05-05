@@ -5,3 +5,5 @@ Cześć
 > to powinien być cytat
 
 <ins> a to powinno być podkreśone </ins>
+
+> Text that is a quote
